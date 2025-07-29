@@ -21,7 +21,7 @@
           - Provide a clear overview of Prime user growth.
           - Highlight behavioral patterns that impact renewals and retention.
           - Deliver actionable insights using intuitive visuals.
- ## 🖼️ 7. Dashboard Screenshot 
+  🖼️ 7. Dashboard Screenshot 
            https://github.com/pujariusha39/Amazon_Prime_Memberships/blob/main/Snapshot%20of%20the%20Dashboard.png
 
           
